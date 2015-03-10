@@ -6,6 +6,7 @@ select模拟器(联动)
 插架介绍：
 
 LinkageSelect 模拟联动select器(ajax请求,多项联动)
+
 该插件需要初始一级列表内容
 width为自适应
 参数：
