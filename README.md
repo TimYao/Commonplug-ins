@@ -24,7 +24,7 @@ Common plug-in list
  
  type(ajax type请求方式) 默认GET<br/>
  
- inputId(后端接入数据提交inputId号默认txt_put)**例如：这里id号是txt_put**<br/>
+ inputId(后端接入数据提交inputId号默认txt_put)&nbsp;&nbsp;**例如：这里id号是txt_put**<br/>
  
  defTxt(是否有自定义提示默认值)例如：defTxt:'请选择项目'<br/>
  
