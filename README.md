@@ -1,8 +1,6 @@
+#Commonplug-ins
 
-  Commonplug-ins
-  ==============
-
-  Common plug-in list
+Common plug-in list
 
 ---------
 
